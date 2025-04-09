@@ -9,9 +9,9 @@ class AppConsts {
   static const String SYSTEM_THEME_KEY = "system_theme";
   static const String APP_CACHE_BOX = "app_cache_box";
   static const String SUPABASE_PROJECT_URL =
-      "https://lkfqvubqjqfembxedxkv.supabase.co";
+      "YOUR_SUPABASE_PROJECT_URL";
   static const String SUPABSE_ANON_KEY =
-      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxrZnF2dWJxanFmZW1ieGVkeGt2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI5MTQ3MTAsImV4cCI6MjA1ODQ5MDcxMH0.Iwmwp7_ldsg7lymkl-VFhafzOmWDaQNl2RtLvO7ZfcU";
+      "YOUR_SUPABASE_ANON_KEY";
   static const String SUPABASE_SERVICE_ROLE_KEY =
-      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxrZnF2dWJxanFmZW1ieGVkeGt2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MjkxNDcxMCwiZXhwIjoyMDU4NDkwNzEwfQ.6IeOC2Hi_K7fZgJyi0NR46cSy8VLaagjASvdUaiH9_o";
+      "YOUR_SUPABASE_SERVICE_ROLE_KEY";
 }
